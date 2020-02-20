@@ -37,6 +37,10 @@ a {
   color: rgb(91,86,86);
 }
 
+a:hover {
+  text-shadow: 1px 1px 2px grey, 0 0 1em grey, 0 0 0.2em grey;
+}
+
 .button {
   border: 2px solid;
   border-radius: 10px;
